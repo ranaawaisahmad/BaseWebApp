@@ -1,6 +1,6 @@
 {
-  "name": "Build Your First Webapp",
-  "description": "A barebones Node.js app using Express 4",
+  "name": "UTM Tracking App",
+  "description": "Get the data from the URL and populate it in the utm reletive fields",
   "repository": "",
   "logo": "",
   "keywords": ["node", "express", "static"],
